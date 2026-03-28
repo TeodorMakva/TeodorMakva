@@ -13,12 +13,15 @@
 - Git / GitHub  
 
 ## Проекты  
-- [System Info Tool](https://github.com/...)  
+- [SysInfoReport](https://github.com/TeodorMakva/SysInfoReport)  
+<!-- 
 - [Other project](https://github.com/...)  
+-->
 
 ## Контакты  
 - GitHub: @TeodorMakva  
-- Telegram: @Rastafariray  
+- Telegram: @Rastafariray
+- Email: teodormakva@gmail.com
 
 <!--
 **TeodorMakva/TeodorMakva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
