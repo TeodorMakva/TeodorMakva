@@ -1,4 +1,24 @@
-## Hi there 👋
+# Привет, я Фёдор 👋  
+
+Я начинающий разработчик  C++  
+
+## Сейчас я работаю над  
+- поиском работы  
+- улучшением своих навыков  
+
+## Технологии  
+- C++  
+- CMake  
+- CLion  
+- Git / GitHub  
+
+## Проекты  
+- [System Info Tool](https://github.com/...)  
+- [Other project](https://github.com/...)  
+
+## Контакты  
+- GitHub: @TeodorMakva  
+- Telegram: @Rastafariray  
 
 <!--
 **TeodorMakva/TeodorMakva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
